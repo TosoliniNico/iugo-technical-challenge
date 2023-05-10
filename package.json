@@ -1,0 +1,22 @@
+{
+  "name": "iugo-technical-challenge",
+  "version": "1.0.0",
+  "description": "iugo-technical-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TosoliniNico/iugo-technical-challenge.git"
+  },
+  "author": "Nicolás Tosolini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TosoliniNico/iugo-technical-challenge/issues"
+  },
+  "homepage": "https://github.com/TosoliniNico/iugo-technical-challenge#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
